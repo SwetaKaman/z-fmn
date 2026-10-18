@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or the RAGTruth-FMN benchmark, please cite it as below."
+title: "Z-FMN: hallucination detection by Z-number evidence fusion on concept networks (code and RAGTruth-FMN benchmark)"
+authors:
+  - family-names: Kam
+    given-names: Sweta
+    orcid: "https://orcid.org/0000-0002-3263-8282"
+    affiliation: "School of AI and Data Science, Indian Institute of Technology Jodhpur"
+license: MIT
+version: 1.0.0
+date-released: 2026-10-18
+keywords:
+  - hallucination detection
+  - retrieval-augmented generation
+  - Z-numbers
+  - subjective logic
+  - forma mentis networks

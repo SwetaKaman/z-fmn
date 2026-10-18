@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+runs/
+data/ragtruth/
+.ipynb_checkpoints/
+*.pkl
+.DS_Store

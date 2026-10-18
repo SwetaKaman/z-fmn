@@ -1,0 +1,14 @@
+torch
+transformers
+accelerate
+bitsandbytes
+spacy
+networkx
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+wordfreq
+matplotlib
+tabulate
