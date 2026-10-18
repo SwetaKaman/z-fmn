@@ -1,6 +1,6 @@
 # Z-FMN: hallucination detection on the concepts and links of an answer
 
-Code and data for the paper *Hallucination detection in retrieval-augmented language models by Z-number evidence fusion on concept networks* (Sweta Kam, under review).
+Code and data for the paper *Hallucination detection in retrieval-augmented language models by Z-number evidence fusion on concept networks* (Sweta Kaman, under review).
 
 Z-FMN turns each answer of a retrieval-augmented language model into a textual forma mentis network: concepts are nodes, and two concepts are linked when they lie within three dependency hops. Every concept and link gets a Z-number whose reliability is a subjective-logic opinion (belief, disbelief, uncertainty). Three evidence sources are fused cumulatively, so each counts in proportion to how much evidence it carries:
 
